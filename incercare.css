@@ -1,0 +1,10 @@
+html, body {
+ margin: 0;
+ padding: 0;
+}
+body {
+ margin: 0;
+ background-image: url(assets/feerie_pasi_vals2.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
